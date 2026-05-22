@@ -1,6 +1,9 @@
-<h1 align="center">Namaste 🙏🏻 Luv Chaudhary</h1>
-
-
+<p align="left">
+  <img src="banner.jpg" 
+  <h1 align="center">Luv Chaudhary</h1>
+</p>
+  
+<br>
 
 
 
