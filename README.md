@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="pointing hand.png" 
-</p>
-  
-<br>
+
 
 
 
