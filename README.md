@@ -1,6 +1,5 @@
 <p align="left">
-  <img src="banner.jpg" 
-  <h1 align="center">Luv Chaudhary</h1>
+  <img src="pointing hand.png" 
 </p>
   
 <br>
